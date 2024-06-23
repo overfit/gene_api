@@ -1,0 +1,6 @@
+gene_id,gene_name,expression_value
+1,BRCA1,10.5
+2,BRCA2,12.3
+3,BRCA1,9.8
+4,BRCA2,13.1
+5,TP53,7.4
